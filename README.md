@@ -1,5 +1,5 @@
 # TmDb-movie-data
-This was my first project under the 'Investigate the Dataset' module in the ALX Udacity Data Analyst Nanodegree program. 
+This was my first project under the 'Investigate the Dataset' module in the ALX Udacity Data Analyst Nanodegree program. The project focuses on the effect of time on movies with regards to several variables like popularity, revenue and budget
 
 The original data was sourced from kaggle which shows information about of over 1,000 movies collected from the movie database from 1960 to 2015. 
 
